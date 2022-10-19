@@ -1,0 +1,10 @@
+@media screen and (max-width: 400px) {
+
+  #admission,
+  #research,
+  #news,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+}
