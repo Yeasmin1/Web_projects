@@ -3,4 +3,5 @@
 
 ## Heslinki Law School landing page
 
-A customization for a Law school landing page based on a React Template
+A hobby project, to develop a landing page for a Law school
+
