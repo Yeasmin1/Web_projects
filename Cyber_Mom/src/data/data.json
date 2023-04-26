@@ -1,0 +1,43 @@
+{
+    "Intro": {
+        "paragraph": "By answering few questions, we can identify your core cyber security weaknesses and proide a free action plan to fix those.",
+        "programmes": [
+          "Lorem ipsum dolor",
+          "Tempor incididunt",
+          "Lorem ipsum dolor",
+          "Incididunt ut labore"
+        ],
+        "programmes2": [
+          "Aliquip ex ea commodo",
+          "Lorem ipsum dolor",
+          "Exercitation ullamco",
+          "Lorem ipsum dolor"
+        ]
+      },
+    "Services": [
+        {
+            "title": "Romance Scam",
+            "text": "I am in love with an online friend, Am I getting scammed soon?"
+
+        },
+        {
+          "title": "Loan Scam",
+          "text": "I need a quick loan, what to do to prevent scam?"
+
+      },
+      {
+        "title": "Mail Scam",
+        "text": "I received an email from an unknown person, should I open it?"
+
+    },
+    {
+      "title": "Prize Scam",
+      "text": "I recived an email with a lottery ticket, what should I do?"
+
+  }
+        
+    ]
+}
+
+
+
