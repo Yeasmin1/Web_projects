@@ -1,6 +1,11 @@
 # Law School Demo
 
-A demo Law school site based on a React Template.
+A customized Law school landing page based on a React Template.
+
+## Features
+
+- Reponsive design
+- Landing page characteristics: Attention Banner, Clear Call to Action (CTA), Clear benefits
 
 ## How to Build
 
@@ -12,10 +17,8 @@ A demo Law school site based on a React Template.
 
 > yarn start
 
-## To View
+## To view the Demo
 
-A demo of the landing page is running at
+A demo of it is located at: 
+<https://yeasminfarida187.wixsite.com/my-site-9>
 
-https://law-school-landing-page.herokuapp.com 
-
-(Note, It may not work, when stops free tier for web apps)
