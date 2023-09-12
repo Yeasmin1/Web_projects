@@ -21,8 +21,9 @@ In the project directory, you can run:
 
 `npm start`
 
-## To view the Demo
+## To view the live project
 The project is running at https://cyber-mom-44d3c.firebaseapp.com
 
+## To view the Demo
 A demo of it is located at: 
 <https://yeasminfarida187.wixsite.com/my-site-9>
